@@ -1,0 +1,42 @@
+{
+  "group": "gemas_of_redemption",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "gemas_of_redemption:redemptiongem"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "minecraft:redstone_block"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "6": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:netherite_block"
+    },
+    "8": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "gemas_of_redemption:redemption_shovel",
+    "count": 1
+  }
+}

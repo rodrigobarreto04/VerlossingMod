@@ -1,0 +1,158 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Redemptiongem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptiongem"
+    },
+    {
+      "name": "Blockofredemption",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockofredemption"
+    },
+    {
+      "name": "Redemptionore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionore"
+    },
+    {
+      "name": "RedemptionSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemption_sword"
+    },
+    {
+      "name": "RedemptionAxel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemption_axel"
+    },
+    {
+      "name": "RedemptionPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemption_pickaxe"
+    },
+    {
+      "name": "RedemptionShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemption_shovel"
+    },
+    {
+      "name": "RedemptionHoe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemption_hoe"
+    },
+    {
+      "name": "Redemptionhoerecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionhoerecipe"
+    },
+    {
+      "name": "Redemptionshovelrecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionshovelrecipe"
+    },
+    {
+      "name": "Redemptionpickaxerecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionpickaxerecipe"
+    },
+    {
+      "name": "Redemptionaxelrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionaxelrecipe"
+    },
+    {
+      "name": "Redemptionswordrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redemptionswordrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.gemas_of_redemption.redemption_axel": "Redemption Axel",
+      "item.gemas_of_redemption.redemptiongem": "Redemption gem",
+      "item.gemas_of_redemption.redemption_shovel": "Redemption Shovel",
+      "block.gemas_of_redemption.blockofredemption": "Block of redemption",
+      "item.gemas_of_redemption.redemption_sword": "Redemption Sword",
+      "item.gemas_of_redemption.redemption_hoe": "Redemption Hoe",
+      "block.gemas_of_redemption.redemptionore": "Redemptionore",
+      "item.gemas_of_redemption.redemption_pickaxe": "Redemption Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gemas_of_redemption",
+    "modName": "Gemas Of Redemption",
+    "version": "1.0.0",
+    "author": "Super, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.gemasofredemption",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

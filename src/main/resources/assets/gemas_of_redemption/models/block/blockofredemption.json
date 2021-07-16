@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gemas_of_redemption:blocks/structure_block_data",
+    "up": "gemas_of_redemption:blocks/structure_block_data",
+    "north": "gemas_of_redemption:blocks/structure_block_data",
+    "east": "gemas_of_redemption:blocks/structure_block_data",
+    "south": "gemas_of_redemption:blocks/structure_block_data",
+    "west": "gemas_of_redemption:blocks/structure_block_data",
+    "particle": "gemas_of_redemption:blocks/structure_block_data"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "golden_axe",
+    "customModelName": "Normal",
+    "name": "Redemption Axel",
+    "specialInfo": [
+      "This is the best axe to do... Somethings. YOUKNOW."
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 11.0,
+    "attackSpeed": 1.4000000000000001,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 3333,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Redemptiongem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

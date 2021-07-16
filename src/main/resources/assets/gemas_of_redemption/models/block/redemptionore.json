@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gemas_of_redemption:blocks/diamond_ore",
+    "up": "gemas_of_redemption:blocks/diamond_ore",
+    "north": "gemas_of_redemption:blocks/diamond_ore",
+    "east": "gemas_of_redemption:blocks/diamond_ore",
+    "south": "gemas_of_redemption:blocks/diamond_ore",
+    "west": "gemas_of_redemption:blocks/diamond_ore",
+    "particle": "gemas_of_redemption:blocks/diamond_ore"
+  }
+}

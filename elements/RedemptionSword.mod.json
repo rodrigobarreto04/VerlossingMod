@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "golden_sword",
+    "customModelName": "Normal",
+    "name": "Redemption Sword",
+    "specialInfo": [
+      "This is the best sword to do... Somethings. YOUKNOW."
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 3.3000000000000003,
+    "enchantability": 2,
+    "damageVsEntity": 12.0,
+    "usageCount": 3333,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Redemptiongem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gemas_of_redemption:items/golden_sword"
+  }
+}

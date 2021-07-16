@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "golden_pickaxe",
+    "customModelName": "Normal",
+    "name": "Redemption Pickaxe",
+    "specialInfo": [
+      "This is the best pickaxe to do... Somethings. YOUKNOW."
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 11.0,
+    "attackSpeed": 1.6,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 3333,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Redemptiongem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
